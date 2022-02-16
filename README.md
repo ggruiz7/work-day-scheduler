@@ -1,4 +1,4 @@
-# work-day-scheduler# work-day-scheduler
+# work-day-scheduler
 
 ## A simple work day planner app
 

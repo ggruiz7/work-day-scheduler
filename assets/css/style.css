@@ -69,3 +69,7 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+.input-group {
+  margin-bottom: 0.1%;
+}
